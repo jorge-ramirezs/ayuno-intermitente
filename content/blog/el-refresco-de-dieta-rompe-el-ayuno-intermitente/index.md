@@ -2,12 +2,12 @@
 title: "¿El Refresco de Dieta Rompe El Ayuno Intermitente?"
 date: "2020-03-03"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "articulos"
-  - "principiantes"
-tags: 
-  - "edulcorantes"
-  - "instagram"
+categories:
+    - "articulos"
+    - "principiantes"
+tags:
+    - "edulcorantes"
+    - "instagram"
 Image: "images/post/el-refresco-de-dieta-rompe-el-ayuno-intermitente/El-Refresco-de-Dieta-Rompe-El-Ayuno-Intermitente.jpg"
 ---
 
