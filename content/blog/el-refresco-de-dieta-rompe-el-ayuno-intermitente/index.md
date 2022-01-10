@@ -9,6 +9,8 @@ tags:
     - "edulcorantes"
     - "instagram"
 Image: "images/post/el-refresco-de-dieta-rompe-el-ayuno-intermitente/El-Refresco-de-Dieta-Rompe-El-Ayuno-Intermitente.jpg"
+aliases:
+    - "/el-refresco-de-dieta-rompe-el-ayuno-intermitente/"
 ---
 
 Es muy normal que las personas que están comenzando con el ayuno intermitente tengan muchas dudas al respecto, una de las dudas más comunes es referente a las bebidas que puedes tomar durante la ventana de ayuno.

@@ -2,14 +2,16 @@
 title: "Como Una Simple App Me Ayudó a Mantenerme Motivado"
 date: "2020-01-03"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "motivacion"
-  - "principiantes"
-tags: 
-  - "apps"
-  - "consejos"
-  - "tips"
+categories:
+    - "motivacion"
+    - "principiantes"
+tags:
+    - "apps"
+    - "consejos"
+    - "tips"
 Image: "images/post/como-una-simple-app-me-ayudo-a-mantenerme-motivado/Zero-Fasting-Logo.png"
+aliases:
+    - "/como-una-simple-app-me-ayudo-a-mantenerme-motivado/"
 ---
 
 Como la mayoría de las personas al principio también me fue difícil adoptar un nuevo estilo de vida. Gracias a la publicidad y a lo que nuestros padres y los padres de nuestros padres nos enseñaron, me daba "cosa" no desayunar, puesto que se suponía era la "comida mas importante del día".

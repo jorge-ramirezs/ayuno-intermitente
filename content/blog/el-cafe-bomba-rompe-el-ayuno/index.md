@@ -12,6 +12,8 @@ tags:
     - "cafe-keto"
 Image: "images/post/el-cafe-bomba-rompe-el-ayuno/Que-Rompe-El-Ayuno-Intermitente-Cafe.jpg"
 # Image: "./images/Que-Rompe-El-Ayuno-Intermitente-Cafe.jpg"
+aliases:
+    - "/el-cafe-bomba-rompe-el-ayuno/"
 ---
 
 El café bomba, también conocido como café a prueba de balas es sin dudas una bebida excelente para comenzar el día, mantenerte energizado y para sentirte saciado durante mucho tiempo. Por esta razón muchas personas lo utilizan como herramienta junto con una dieta cetogénica (keto) y el ayuno intermitente. Aún así muchas personas se hacen la siguente pregunta:

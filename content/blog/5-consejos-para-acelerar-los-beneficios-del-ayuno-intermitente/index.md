@@ -2,14 +2,16 @@
 title: "5 Consejos Para Acelerar Los Beneficios Del Ayuno Intermitente"
 date: "2020-03-26"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "articulos"
-tags: 
-  - "ayuno-intermitente"
-  - "bajar-de-peso"
-  - "beneficios"
-  - "instagram"
+categories:
+    - "articulos"
+tags:
+    - "ayuno-intermitente"
+    - "bajar-de-peso"
+    - "beneficios"
+    - "instagram"
 Image: "/images/post/5-consejos-para-acelerar-los-beneficios-del-ayuno-intermitente/Consejos_Para_Acelerar-min.jpg"
+aliases:
+    - "/5-consejos-para-acelerar-los-beneficios-del-ayuno-intermitente/"
 ---
 
 El Ayuno Intermitente tiene muchos beneficios, te ayuda a bajar de peso, controla la resistencia a la insulina y dispara la autofagia entre otros.

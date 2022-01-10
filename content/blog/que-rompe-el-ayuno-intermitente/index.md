@@ -2,13 +2,15 @@
 title: "Que Rompe El Ayuno Intermitente"
 date: "2020-01-14"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-  - "principiantes"
-tags: 
-  - "destacado"
-  - "instagram"
+categories:
+    - "ayuno-intermitente"
+    - "principiantes"
+tags:
+    - "destacado"
+    - "instagram"
 Image: "images/post/que-rompe-el-ayuno-intermitente/Que-Rompe-El-Ayuno-Intermitente-Header.jpg"
+aliases:
+    - "/que-rompe-el-ayuno-intermitente/"
 ---
 
 **No existe una regla absoluta para que rompe el ayuno intermitente, en algunos estudios realizados se observó que se pueden obtener los mismos resultados incluso con un consumo de hasta 50 calorías.**
@@ -19,9 +21,9 @@ Al principio, cuando recién me aventuré a probar el ayuno intermitente, el sol
 
 Después de aprender [como comenzar el ayuno intermitente](https://ayunointermitente.blog/como-comenzar-el-ayuno-intermitente-2/) me surgieron preguntas tales como:
 
-- ¿Puedo tomar café?
-- ¿Qué tal té?
-- ¡Hey, mira, refresco de cola con "cero calorías" seguro que la puedo tomar! ¿O no?
+-   ¿Puedo tomar café?
+-   ¿Qué tal té?
+-   ¡Hey, mira, refresco de cola con "cero calorías" seguro que la puedo tomar! ¿O no?
 
 **Los principales [beneficios del ayuno intermitente](https://ayunointermitente.blog/4-beneficios-del-ayuno-intermitente/) están en la Adaptación a la Cetosis, la Autofagia y hacer que tu cuerpo utilice las reservas de energía (bajar la insulina y quemar la grasa)**. El ayuno intermitente de cierta manera estimula cada uno de estos beneficios dependiendo del tiempo que tengas en ayunas.
 
@@ -47,9 +49,9 @@ Entre mayor sea el [índice glucémico](https://www.mayoclinic.org/es-es/healthy
 
 La siguiente tabla muestra el alimento o bebida y su impacto en la insulina, cetosis y en la utilización de grasa (esto en relación a bajar de peso).
 
-* * *
+---
 
-|  | ¿Eleva la Insulina?  
+| | ¿Eleva la Insulina?  
 (No estimula la Autofagia) | ¿Te Saca de Cetosis? | ¿Detiene la Pérdida de Peso? |
 | --- | --- | --- | --- |
 | Café | No | No | No |
@@ -66,7 +68,7 @@ La siguiente tabla muestra el alimento o bebida y su impacto en la insulina, cet
 | Vinagre de Sidra de Manzana | No | No | No |
 | Jugo de Limón | No hay datos | No | No |
 
-* * *
+---
 
 ### Café Negro:
 
@@ -136,7 +138,7 @@ Image by [silviarita](https://pixabay.com/users/silviarita-3142410/?utm_source=l
 
 El vinagre de sidra de manzana no tiene impacto en la insulina, cetosis o pérdida de peso.
 
-* * *
+---
 
 Espero que esta información te sea util.
 

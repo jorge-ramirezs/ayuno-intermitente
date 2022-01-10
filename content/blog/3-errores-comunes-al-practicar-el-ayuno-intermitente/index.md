@@ -2,13 +2,15 @@
 title: "3 Errores Comunes Al Practicar el Ayuno Intermitente"
 date: "2019-12-12"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-tags: 
-  - "destacado"
-  - "errores-comunes"
-  - "instagram"
+categories:
+    - "ayuno-intermitente"
+tags:
+    - "destacado"
+    - "errores-comunes"
+    - "instagram"
 Image: "images/post/3-errores-comunes-al-practicar-el-ayuno-intermitente/Errores-ayuno-intermitente.jpg"
+aliases:
+    - "/3-errores-comunes-al-practicar-el-ayuno-intermitente/"
 ---
 
 Cada día más y más gente adopta el ayuno intermitente como protocolo para bajar de peso.

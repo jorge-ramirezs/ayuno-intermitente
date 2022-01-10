@@ -2,12 +2,14 @@
 title: "5 Mitos Sobre El Ayuno Intermitente"
 date: "2019-12-12"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-tags: 
-  - "consejos"
-  - "instagram"
+categories:
+    - "ayuno-intermitente"
+tags:
+    - "consejos"
+    - "instagram"
 Image: "images/post/5-mitos-sobre-el-ayuno-intermitente/mitos-ayuno-intermitente-min-scaled.jpg"
+aliases:
+    - "/5-mitos-sobre-el-ayuno-intermitente/"
 ---
 
 **El ayuno intermitente se ha vuelto muy popular en tiempos recientes, muchas personas lo están adoptado como estilo de vida, aún y cuando existe mucha información al respecto y que no es algo nuevo, todavía hay mucha gente que no se anima a practicarlo por miedo o porque seguramente ha escuchado alguno de los siguientes mitos.**

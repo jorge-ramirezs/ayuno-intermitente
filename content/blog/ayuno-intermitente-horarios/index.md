@@ -2,16 +2,18 @@
 title: "Ayuno Intermitente Horarios"
 date: "2020-02-28"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "articulos"
-  - "ayuno-intermitente"
-tags: 
-  - "apps"
-  - "aprendizaje"
-  - "ayuno-intermitente"
-  - "horarios"
-  - "principiantes"
+categories:
+    - "articulos"
+    - "ayuno-intermitente"
+tags:
+    - "apps"
+    - "aprendizaje"
+    - "ayuno-intermitente"
+    - "horarios"
+    - "principiantes"
 Image: "images/post/ayuno-intermitente-horarios/ayuno-intermitente-horarios-1.jpg"
+aliases:
+    - "/ayuno-intermitente-horarios/"
 ---
 
 **Veo en las redes sociales que mucha gente pregunta si el Ayuno Intermitente tiene un Horario. La realidad es que no, no existen horarios específicos para hacer el ayuno intermitente 16/8, dependiendo de la intención que se tenga basta con cumplir al menos 16 horas de ayuno para comenzar a ver algunos de los [beneficios que te ofrece el ayuno intermitente](https://ayunointermitente.blog/4-beneficios-del-ayuno-intermitente/)**.

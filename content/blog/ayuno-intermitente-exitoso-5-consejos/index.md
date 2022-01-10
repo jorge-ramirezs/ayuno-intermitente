@@ -2,17 +2,19 @@
 title: "5 Claves Para Un Ayuno Intermitente Exitoso"
 date: "2020-02-17"
 type: "featured" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-  - "motivacion"
-  - "principiantes"
-tags: 
-  - "claves"
-  - "consejos"
-  - "instagram"
-  - "motivacion"
-  - "secretos"
+categories:
+    - "ayuno-intermitente"
+    - "motivacion"
+    - "principiantes"
+tags:
+    - "claves"
+    - "consejos"
+    - "instagram"
+    - "motivacion"
+    - "secretos"
 Image: "images/post/ayuno-intermitente-exitoso-5-consejos/5-claves-ayuno-intermitente-exitoso.jpg"
+aliases:
+    - "/ayuno-intermitente-exitoso-5-consejos/"
 ---
 
 Si estás pensando en implementar en tu vida un ayuno intermitente exitoso o si ya has tomado la decisión de iniciarlo y quieres sacarte el máximo provecho, entonces este post será de gran ayuda para ti.
@@ -61,7 +63,7 @@ Es por ello que se recomienda dejar de lado la búsqueda de resultados inmediato
 
 ### B O N U S:
 
-- Mantén tu cuerpo y mente en acción: Estar ocupado nos hace prestarle menos atención a los momentos en los que sentidos hambre más fuerte. Cuando las ganas de comer te invadan, intentar realizar alguna actividad que te ayude a darle otro rumbo a tus pensamientos y a mantenerte ocupado.
+-   Mantén tu cuerpo y mente en acción: Estar ocupado nos hace prestarle menos atención a los momentos en los que sentidos hambre más fuerte. Cuando las ganas de comer te invadan, intentar realizar alguna actividad que te ayude a darle otro rumbo a tus pensamientos y a mantenerte ocupado.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 

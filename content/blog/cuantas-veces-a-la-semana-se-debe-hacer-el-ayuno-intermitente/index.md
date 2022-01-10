@@ -2,15 +2,17 @@
 title: "¿Cuántas veces a la semana se debe hacer el ayuno intermitente?"
 date: "2020-03-13"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "articulos"
-  - "principiantes"
-tags: 
-  - "ayuno-intermitente"
-  - "bajar-de-peso"
-  - "horarios"
-  - "instagram"
+categories:
+    - "articulos"
+    - "principiantes"
+tags:
+    - "ayuno-intermitente"
+    - "bajar-de-peso"
+    - "horarios"
+    - "instagram"
 Image: "images/post/cuantas-veces-a-la-semana-se-debe-hacer-el-ayuno-intermitente/Cuantas-veces-a-la-semana-se-debe-hacer-el-ayuno-intermitente-scaled.jpg"
+aliases:
+    - "/cuantas-veces-a-la-semana-se-debe-hacer-el-ayuno-intermitente/"
 ---
 
 Esta es una de las primeras preguntas que surgen al comenzar el ayuno intermitente, como ya sabemos el ayuno intermitente no es una dieta, es un estilo de vida. Por cierto, no te despegues pues en el próximo artículo te voy a explicar porque la palabra "dieta" es algo que no escucharás (o mejor dicho, leerás) en este blog. Entonces:
@@ -22,16 +24,16 @@ Aún y cuando el ayuno intermitente ha tomado mucha popularidad recientemente, n
 Por ejemplo, el Emperador Romano Marcos Aurelio fue conocido como el Emperador Estoico y uno de los ejercicios que practicaba era el llamado "Incomodidad Voluntaria".
 
 > "Pero ni un toro ni un hombre de espíritu noble llegan a ser lo que son a la vez; debe realizar un duro entrenamiento de invierno y prepararse, y no impulsarse precipitadamente hacia lo que no es apropiado para él"
-> 
+>
 > \- Epicteto
 
 En este ejercicio de "Incomodidad Voluntaria" como su nombre lo dice, los Estoicos se ponen en ciertas situaciones incómodas de manera voluntaria para recordarse y entrenarse por si algún día llegasen a vivir sin esas comodidades, estas situaciones eran por ejemplo:
 
-- Baños con agua fría
-- Hacer ejercicio por la mañana
-- Caminar en el frío sin suéter o abrigo
-- Ayunar por un día
-- Dormir en el piso
+-   Baños con agua fría
+-   Hacer ejercicio por la mañana
+-   Caminar en el frío sin suéter o abrigo
+-   Ayunar por un día
+-   Dormir en el piso
 
 Todo esto era con el fin de entrenarse o más bien saber que puedes esperar en caso de que estas situaciones se presenten.
 

@@ -2,10 +2,12 @@
 title: "Ayuno Intermitente Para Bajar de Peso"
 date: "2020-01-24"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-  - "bajar-de-peso"
+categories:
+    - "ayuno-intermitente"
+    - "bajar-de-peso"
 Image: "images/post/ayuno-intermitente-para-bajar-de-peso/Ayuno-Intermitente-Bajar-De-Peso.jpg"
+aliases:
+    - "/ayuno-intermitente-para-bajar-de-peso/"
 ---
 
 **Como ya lo sabes el Ayuno Intermite no es una dieta, pero ¿Haciendo Ayuno Intermitente automáticamente vas a bajar de peso?**
@@ -81,15 +83,15 @@ No te preocupes si no sabes tu porcentaje de grasa corporal, lo puedes dejar en 
 
 ### Básculas Inteligentes
 
- [![](images/61P7ZRJ-%2B2L._AC_SL1500_.jpg)](https://www.amazon.com.mx/Etekcity-Smart-Bluetooth-Body-Scale/dp/B07D7R25JV/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=F2QJSV55OO2T&keywords=bascula+inteligente&qid=1579977860&sprefix=bascula,aps,180&sr=8-2&linkCode=ll1&tag=ayunointerm06-20&linkId=4c61da3518bb435cd8f95f4f76501c0c)![](images/61P7ZRJ-%2B2L._AC_SL1500_.jpg)
+[![](images/61P7ZRJ-%2B2L._AC_SL1500_.jpg)](https://www.amazon.com.mx/Etekcity-Smart-Bluetooth-Body-Scale/dp/B07D7R25JV/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=F2QJSV55OO2T&keywords=bascula+inteligente&qid=1579977860&sprefix=bascula,aps,180&sr=8-2&linkCode=ll1&tag=ayunointerm06-20&linkId=4c61da3518bb435cd8f95f4f76501c0c)![](images/61P7ZRJ-%2B2L._AC_SL1500_.jpg)
 
- [![](images/61h7YRCDADL._AC_SL1500_.jpg)](https://amzn.to/2Oexsmz)![](https://images-na.ssl-images-amazon.com/images/I/61h7YRCDADL._AC_SL1500_.jpg width=) 
+[![](images/61h7YRCDADL._AC_SL1500_.jpg)](https://amzn.to/2Oexsmz)![](https://images-na.ssl-images-amazon.com/images/I/61h7YRCDADL._AC_SL1500_.jpg width=)
 
 Veamos un ejemplo:
 
 Supongamos que nuestro sujeto es un hombre de 40 años con un peso de 85 kilogramos, una estatura de 175 cm. (1 metro 75 centímetros), un porcentaje de grasa corporal del 20%, que se ejercita al menos una hora 3 veces a la semana y desea perder peso para llegar a su peso "ideal" de 72 kilogramos.
 
-* * *
+---
 
 ![](images/Calculadora-Ayuno-Intemitente-1.png)
 
@@ -97,7 +99,7 @@ Calculadora de Gasto Energético Diario
 
 ![](images/Calculadora-Ayuno-Intemitente-2.png)
 
-* * *
+---
 
 Este sujeto tiene un gasto energético diario de **2,207 calorías**, en la tabla de la derecha en los resultados, la calculadora te muestra el gasto energético diario para cada uno de los tipos de actividad.
 

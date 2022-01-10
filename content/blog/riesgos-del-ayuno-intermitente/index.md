@@ -2,12 +2,14 @@
 title: "Riesgos del Ayuno Intermitente"
 date: "2020-01-29"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-tags: 
-  - "riesgos"
-  - "vida-saludable"
+categories:
+    - "ayuno-intermitente"
+tags:
+    - "riesgos"
+    - "vida-saludable"
 Image: "images/post/riesgos-del-ayuno-intermitente/Riesgos-del-ayuno-intermitente-min.jpg"
+aliases:
+    - "/riesgos-del-ayuno-intermitente/"
 ---
 
 **Con la creciente popularidad del [ayuno intermitente para bajar de peso](https://ayunointermitente.blog/ayuno-intermitente-para-bajar-de-peso/) también es muy importante conocer cuales son los riesgos.**

@@ -2,16 +2,18 @@
 title: "Ayuno Intermitente y Diabetes Tipo 2"
 date: "2020-02-22"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-  - "motivacion"
-  - "principiantes"
-tags: 
-  - "ayuno-intermitente"
-  - "diabetes"
-  - "previencion"
-  - "resistencia-a-la-insulina"
+categories:
+    - "ayuno-intermitente"
+    - "motivacion"
+    - "principiantes"
+tags:
+    - "ayuno-intermitente"
+    - "diabetes"
+    - "previencion"
+    - "resistencia-a-la-insulina"
 Image: "images/post/ayuno-intermitente-y-diabetes-tipo-2/ayuno-intermitente-diabetes-tipo-2.jpg"
+aliases:
+    - "/ayuno-intermitente-y-diabetes-tipo-2/"
 ---
 
 ## **Ayuno intermitente y Diabetes: ¿Puedo realizarlo si padezco esta enfermedad?**

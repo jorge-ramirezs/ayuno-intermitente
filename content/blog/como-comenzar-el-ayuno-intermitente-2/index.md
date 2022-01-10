@@ -2,13 +2,15 @@
 title: "¿Cómo Comenzar El Ayuno Intermitente?"
 date: "2020-01-11"
 type: "featured" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-  - "principiantes"
-tags: 
-  - "destacado"
-  - "instagram"
+categories:
+    - "ayuno-intermitente"
+    - "principiantes"
+tags:
+    - "destacado"
+    - "instagram"
 image: "images/post/como-comenzar-el-ayuno-intermitente-2/como-comenzar-ayuno-intermitente-min-scaled.jpg"
+aliases:
+    - "/como-comenzar-el-ayuno-intermitente-2/"
 ---
 
 Al principio cuando me decidí a practicar el ayuno intermitente tenía muchas dudas y pensaba que era muy complicado, a lo mejor esto mismo te pasa a ti.

@@ -2,15 +2,17 @@
 title: "Panqueques con Blueberries"
 date: "2020-02-26"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "desayuno"
-  - "recetas"
-tags: 
-  - "cetosis"
-  - "desayunos"
-  - "keto-friendly"
-  - "recetas"
+categories:
+    - "desayuno"
+    - "recetas"
+tags:
+    - "cetosis"
+    - "desayunos"
+    - "keto-friendly"
+    - "recetas"
 Image: "images/post/panqueques-con-blueberries/Blueberries-panqueques-min-scaled-e1582685142729.jpg"
+aliases:
+    - "/panqueques-con-blueberries/"
 ---
 
 Las blueberries tienen la mayor cantidad de azúcar por porción de todas las berries permitidas en la dieta cetogénica y la porción utilizada en esta receta es solo 3 gramos netos en ⅛ de taza.
@@ -21,23 +23,19 @@ Para la masa la harina de coco no es tan espesa como la harina de almendra, pero
 
 ![](images/Blueberries-panqueques-min-150x150.jpg)
 
-- ½ tz. Queso Crema
-- 2 Huevos
-- ½ cdta. Canela (en polvo)
-- 1 cda. Harina de Coco
-- 1½ cda. Endulzante Natural (Eritrol, Fruto del Monje)
-- 5 gotas Stevia (Líquida)
-- 2 cda. Mantequilla con sal (O Aceite de Coco)
-- ⅛ tz. Blueberries (Frescas)
+-   ½ tz. Queso Crema
+-   2 Huevos
+-   ½ cdta. Canela (en polvo)
+-   1 cda. Harina de Coco
+-   1½ cda. Endulzante Natural (Eritrol, Fruto del Monje)
+-   5 gotas Stevia (Líquida)
+-   2 cda. Mantequilla con sal (O Aceite de Coco)
+-   ⅛ tz. Blueberries (Frescas)
 
 1. Mezcla o bate los primeros ocho ingredientes en un tazón o licuadora hasta que quede suave
-    
 2. Clienta una sartén mediano y engrasar con una cantidad saludable de mantequilla salada o aceite de coco y llevar a fuego medio-alto
-    
 3. Vas a hacer dos panqueques, uno a la vez, serán más delgados que los panqueques tradicionales, pero los hará igual. Vierte la masa y luego agrega los arándanos encima. Cocine la mayor parte del camino por un lado (espere hasta que vea burbujas) y luego voltee
-    
 4. (Opcional) una vez que hayas hecho y servido tus panqueques. Con su jarabe de arce de ceto favorito mezclado con mantequilla derretida para agregar grasas, también puede llenarlos con queso crema y enrollarlos como uvas para obtener un gramo adicional de carbohidratos por onza
-    
 
 ## Encuentra Los Ingredientes Aquí
 

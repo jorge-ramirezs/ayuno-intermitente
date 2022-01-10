@@ -2,13 +2,15 @@
 title: "4 Beneficios del Ayuno Intermitente"
 date: "2019-12-12"
 type: "featured" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-tags: 
-  - "beneficios"
-  - "consejos"
-  - "instagram"
+categories:
+    - "ayuno-intermitente"
+tags:
+    - "beneficios"
+    - "consejos"
+    - "instagram"
 Image: "images/post/4-beneficios-del-ayuno-intermitente/Ayuno-intermitente-4-beneficios-min-1-scaled.jpg"
+aliases:
+    - "/4-beneficios-del-ayuno-intermitente/"
 ---
 
 **Si te estás preguntando si el ayuno intermitente es para ti, has llegado al lugar indicado. A continuación voy compartir contigo cuatro de los más importantes Beneficios Del Ayuno Intermitente que obtendrás si lo practicas correctamente.**
@@ -37,7 +39,7 @@ Al tener una ventana de 8 horas (o menos, dependiendo el protocolo que elijas) e
 
 ![Beneficios del ayuno intermitente 2](images/nutrition04-free-img.jpg)
 
-El ayuno Intermitente puede reducir la resistencia a la insulina disminuyendo el azúcar en la sangre alrededor de 3% a 6% y los niveles de insulina en ayuna de un 20% a un 30%. Lo cual [puede ayudar a combatir la diabetes tipo 2](https://www.translationalres.com/article/S1931-5244(14)00200-X/abstract). \[2\]
+El ayuno Intermitente puede reducir la resistencia a la insulina disminuyendo el azúcar en la sangre alrededor de 3% a 6% y los niveles de insulina en ayuna de un 20% a un 30%. Lo cual [puede ayudar a combatir la diabetes tipo 2](<https://www.translationalres.com/article/S1931-5244(14)00200-X/abstract>). \[2\]
 
 [Estudios recientes](https://www.surrey.ac.uk/news/fasting-diets-reduce-important-risk-factor-cardiovascular-disease) mostraron que el ayuno intermitente ayuda a bajar los triglicéridos en la sangre. Los niveles altos de triglicéridos en la sangre se considera otro factor de riesgo grave de enfermedad cardiovascular y accidente cerebrovascular.
 

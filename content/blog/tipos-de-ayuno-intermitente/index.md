@@ -2,13 +2,15 @@
 title: "Tipos de Ayuno Intermitente."
 date: "2020-01-20"
 type: "featured" # available types: [featured/regular]
-categories: 
-  - "ayuno-intermitente"
-  - "principiantes"
-tags: 
-  - "destacado"
-  - "instagram"
+categories:
+    - "ayuno-intermitente"
+    - "principiantes"
+tags:
+    - "destacado"
+    - "instagram"
 image: "images/post/tipos-de-ayuno-intermitente/tipos-de-ayuno-intermitente-min-scaled.jpg"
+aliases:
+    - "/tipos-de-ayuno-intermitente/"
 ---
 
 Existe mucha información aquí y allá sobre los muchos beneficios del ayuno intermitente, desafortunadamente al mismo tiempo esto genera demasiadas dudas en las personas que apenas quieren aprender [como comenzar el ayuno intermitente](https://ayunointermitente.blog/como-comenzar-el-ayuno-intermitente-2/).
@@ -35,11 +37,11 @@ Consta de tener una "ventana" de 8 horas durante el día para consumir los alime
 
 Después de las 16 horas de ayuno se comienzan a ver algunos beneficios en el cuerpo, por ejemplo:
 
-- Se incrementa la producción de la hormona del crecimiento, estos son algunos beneficios.
-    - Aumenta la energía y vitalidad.
-    - Aumenta masa muscular.
-    - Retarda los efectos del envejecimiento en la piel.
-    - Fortalece el sistema inmunológico.
+-   Se incrementa la producción de la hormona del crecimiento, estos son algunos beneficios.
+    -   Aumenta la energía y vitalidad.
+    -   Aumenta masa muscular.
+    -   Retarda los efectos del envejecimiento en la piel.
+    -   Fortalece el sistema inmunológico.
 
 **\*Nota:** Los beneficios antes mencionados se refieren a la hormona del crecimiento creada de manera natural en el cuerpo.
 
@@ -69,10 +71,10 @@ Este protocolo también es llamado "Una comida al día" (OMAD, One Meal A Day en
 
 Algunos de los beneficios que comienzas a ver durante este ayuno son que:
 
-- Disminuye la inflamación en el aparato digestivo.
-- Disminuye la oxidación en el cuerpo.
-- En algunos casos disminuye inflamación de las articulaciones mejorando la artritis.
-- Ayuda al sistema inmunológico.
+-   Disminuye la inflamación en el aparato digestivo.
+-   Disminuye la oxidación en el cuerpo.
+-   En algunos casos disminuye inflamación de las articulaciones mejorando la artritis.
+-   Ayuda al sistema inmunológico.
 
 **Los siguientes tipos de ayuno solo se recomiendan que se lleven a cabo una vez al mes. Y los ayunos de 2 días o más únicamente se recomiendan que se hagan de 2 a 3 veces al año.**
 
@@ -94,8 +96,8 @@ Durante esta fase de ayuno y gracias a la gluconeogénesis, tu cuerpo puede prod
 
 Existen otros tipos de "Ayuno Intermitente" (Sí entre comillas porque en mi humilde opinión no los considero ayuno) los cuales incluso permiten el consumo de calorías durante la ventana de ayuno. Estos son:
 
-- **Ayuno en días alternos**. Este protocolo refiere a comer un día y ayunar el siguiente. El problema con este tipo de "ayuno" es que no lo considero un estilo de vida sustentable, algunas personas lo pueden utilizar para bajar de peso, desde mi punto de vista va a funcionar como cualquier otra dieta.
-- **5:2**. Este protocolo se refiere a comer normal durante 5 días de la semana y ayunar por 2 días no consecutivos. De nuevo pienso que no es un estilo de vida sustentable, algunas personas lo utilizan para adaptar su cuerpo a la cetosis, que no creo que funcione porque eso toma de 3 a 5 días dependiendo de lo acostumbrado que esté tu cuerpo a utilizar la grasa como combustible.
+-   **Ayuno en días alternos**. Este protocolo refiere a comer un día y ayunar el siguiente. El problema con este tipo de "ayuno" es que no lo considero un estilo de vida sustentable, algunas personas lo pueden utilizar para bajar de peso, desde mi punto de vista va a funcionar como cualquier otra dieta.
+-   **5:2**. Este protocolo se refiere a comer normal durante 5 días de la semana y ayunar por 2 días no consecutivos. De nuevo pienso que no es un estilo de vida sustentable, algunas personas lo utilizan para adaptar su cuerpo a la cetosis, que no creo que funcione porque eso toma de 3 a 5 días dependiendo de lo acostumbrado que esté tu cuerpo a utilizar la grasa como combustible.
 
 ## Conclusión:
 

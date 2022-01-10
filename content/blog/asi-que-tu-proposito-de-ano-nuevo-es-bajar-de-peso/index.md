@@ -2,13 +2,15 @@
 title: "¿Así Que Tu Propósito De Año Nuevo Es Bajar De Peso?"
 date: "2019-12-30"
 type: "regular" # available types: [featured/regular]
-categories: 
-  - "bajar-de-peso"
-  - "principiantes"
-tags: 
-  - "bajar-de-peso"
-  - "vida-saludable"
+categories:
+    - "bajar-de-peso"
+    - "principiantes"
+tags:
+    - "bajar-de-peso"
+    - "vida-saludable"
 Image: "images/post/asi-que-tu-proposito-de-ano-nuevo-es-bajar-de-peso/ayuno-intermitente-para-bajar-de-peso-2020.jpg"
+aliases:
+    - "/asi-que-tu-proposito-de-ano-nuevo-es-bajar-de-peso/"
 ---
 
 Te tengo noticias y algunas recomendaciones para que lo logres.
