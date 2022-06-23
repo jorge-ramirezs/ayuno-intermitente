@@ -15,10 +15,9 @@
     <!-- /image cdn -->
 
     <!-- image processing for multiple device -->
-    {{ if fileExists (add `assets/` $imagePath) }} {{ $image:= resources.Get
-    $imagePath }} {{ $imageFallback:= $image.Resize "650x" }} {{ $imageLG:=
-    $image.Resize "650x webp" }} {{ $imageMD:= $image.Resize "600x webp" }} {{
-    $imageSM:= $image.Resize "545x webp" }}
+    {{ if fileExists (add `assets/` $imagePath) }} {{ $image:= resources.Get $imagePath }}
+    {{ $imageFallback:= $image.Resize "650x" }} {{ $imageLG:=$image.Resize "650x webp" }}
+    {{ $imageMD:= $image.Resize "600x webp" }} {{$imageSM:= $image.Resize "545x webp" }}
     <picture>
       <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)" />
       <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)" />

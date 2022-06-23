@@ -21,11 +21,10 @@
         <!-- /image cdn -->
 
         <!-- image processing for multiple device -->
-        {{ if fileExists (add `assets/` $imagePath) }} {{ $image:= resources.Get
-        $imagePath }} {{ $imageFallback:= $image.Resize "1400x" }} {{ $imageXL:=
-        $image.Resize "1400x webp" }} {{ $imageLG:= $image.Resize "1000x webp"
-        }} {{ $imageMD:= $image.Resize "800x webp" }} {{ $imageSM:=
-        $image.Resize "600x webp" }}
+        {{ if fileExists (add `assets/` $imagePath) }} {{ $image:= resources.Get $imagePath }}
+        {{ $imageFallback:= $image.Resize "1400x" }} {{ $imageXL:=$image.Resize "1400x webp" }}
+        {{ $imageLG:= $image.Resize "1000x webp"}}
+        {{ $imageMD:= $image.Resize "800x webp" }} {{ $imageSM:=$image.Resize "600x webp" }}
         <picture>
           <source
             srcset="{{ $imageSM.RelPermalink }}"

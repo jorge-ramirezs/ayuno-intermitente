@@ -48,8 +48,8 @@
           <!-- /image cdn -->
 
           <!-- image processing for single device -->
-          {{ if fileExists (add `assets/` $imagePath) }} {{ $image:=
-          resources.Get $imagePath }} {{ $imageFallback:= $image.Fill "80x80" }}
+          {{ if fileExists (add `assets/` $imagePath) }} {{ $image:=resources.Get $imagePath }}
+          {{ $imageFallback:= $image.Fill "80x80" }}
           {{ $imageWebp:= $image.Fill "80x80 webp" }}
           <img
             loading="lazy"
@@ -82,8 +82,7 @@
       {{ end }}
     </div>
     <div class="blog-card-list text-start tab-pane fade" id="Recent">
-      {{ range first 5 ( where site.RegularPages "Section" "in"
-      site.Params.mainSections )}}
+      {{ range first 5 ( where site.RegularPages "Section" "in" site.Params.mainSections )}}
       <div class="card rounded-0">
         <div class="d-sm-flex">
           <!-- image path -->
@@ -103,8 +102,7 @@
           <!-- /image cdn -->
 
           <!-- image processing for single device -->
-          {{ if fileExists (add `assets/` $imagePath) }} {{ $image:=
-          resources.Get $imagePath }} {{ $imageFallback:= $image.Fill "80x80" }}
+          {{ if fileExists (add `assets/` $imagePath) }} {{ $image:=resources.Get $imagePath }} {{ $imageFallback:= $image.Fill "80x80" }}
           {{ $imageWebp:= $image.Fill "80x80 webp" }}
           <img
             loading="lazy"

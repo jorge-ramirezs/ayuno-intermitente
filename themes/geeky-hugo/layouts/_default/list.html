@@ -1,6 +1,4 @@
-{{ define "main" }} {{ if or (eq .Section "post") (eq .Section "posts") (eq
-.Section "blog") (eq .Section "blogs") (eq .Section "categories") (eq .Section
-"tags") }}
+{{ define "main" }} {{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "categories") (eq .Section "tags") }}
 <section class="section">
   <div class="container">
     <div class="row">
@@ -18,8 +16,7 @@
         <div class="border mb-5 pt-4 rounded">
           <div class="row mx-0 g-5">
             <!-- recent post -->
-            {{ $paginator:= .Paginate (where .Data.Pages "Section" "in"
-            site.Params.mainSections ) }} {{ range $paginator.Pages }}
+            {{ $paginator:= .Paginate (where .Data.Pages "Section" "in" site.Params.mainSections ) }} {{ range $paginator.Pages }}
             <div class="col-sm-6 mb-4">{{ .Render "post" }}</div>
             {{ end }}
           </div>
@@ -57,27 +54,22 @@
             </li>
             {{ end }}
             <!-- Page numbers. -->
-            {{ range $paginator.Pagers }} {{ $.Scratch.Set "page_number_flag"
-            false }}
+            {{ range $paginator.Pagers }} {{ $.Scratch.Set "page_number_flag" false }}
             <!-- Advanced page numbers. -->
             {{ if gt $paginator.TotalPages $max_links }}
             <!-- Lower limit pages. -->
             <!-- If the user is on a page which is in the lower limit.  -->
             {{ if le $paginator.PageNumber $lower_limit }}
             <!-- If the current loop page is less than max_links. -->
-            {{ if le .PageNumber $max_links }} {{ $.Scratch.Set
-            "page_number_flag" true }} {{ end }}
+            {{ if le .PageNumber $max_links }} {{ $.Scratch.Set "page_number_flag" true }} {{ end }}
             <!-- Upper limit pages. -->
             <!-- If the user is on a page which is in the upper limit. -->
             {{ else if ge $paginator.PageNumber $upper_limit }}
             <!-- If the current loop page is greater than total pages minus $max_links -->
-            {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }} {{
-            $.Scratch.Set "page_number_flag" true }} {{ end }}
+            {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }} {{ $.Scratch.Set "page_number_flag" true }} {{ end }}
             <!-- Middle pages. -->
-            {{ else }} {{ if and ( ge .PageNumber (sub $paginator.PageNumber
-            $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber
-            $adjacent_links) ) }} {{ $.Scratch.Set "page_number_flag" true }} {{
-            end }} {{ end }}
+            {{ else }} {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }} {{ $.Scratch.Set "page_number_flag" true }}
+            {{ end }} {{ end }}
             <!-- Simple page numbers. -->
             {{ else }} {{ $.Scratch.Set "page_number_flag" true }} {{ end }}
             <!-- Output page numbers. -->
@@ -115,8 +107,7 @@
 
       <!-- sidebar widgets -->
       <aside class="col-lg-4">
-        {{ $widget:= site.Params.widgets.sidebar }} {{ partialCached
-        "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
+        {{ $widget:= site.Params.widgets.sidebar }} {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
       </aside>
     </div>
   </div>

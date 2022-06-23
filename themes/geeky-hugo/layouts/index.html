@@ -1,8 +1,7 @@
 {{ define "main" }}
 
 <!--=================== banner section start ===================-->
-{{ with site.Params.banner }} {{ if .enable }} {{ $bgImage:= resources.Get
-.background_image }}
+{{ with site.Params.banner }} {{ if .enable }} {{ $bgImage:= resources.Get .background_image }}
 <section
   class="banner text-center text-lg-start"
   style="background-image: url('{{ $bgImage.RelPermalink }}');"
@@ -24,8 +23,7 @@
       </div>
       {{ with .image }}
       <div class="col-lg-6 col-sm-6 col-9 mx-auto mb-5 mb-lg-0">
-        {{ $image:= resources.Get . }} {{ $imageWidth:= add (string
-        $image.Width) "x"}} {{ $options := add (string $imageWidth) " webp" }}
+        {{ $image:= resources.Get . }} {{ $imageWidth:= add (string $image.Width) "x"}} {{ $options := add (string $imageWidth) " webp" }}
         {{ $imageWebp:= $image.Resize $options }}
         <img
           decoding="async"
@@ -58,8 +56,7 @@
         <div class="border rounded d-lg-flex p-4 mb-5">
           <!-- big featured post -->
           <div class="col-lg-6 me-lg-4 mb-5 mb-lg-0">
-            {{ range first 1 (where site.RegularPages "Type" "featured") }} {{
-            .Render "post" }} {{ end }}
+            {{ range first 1 (where site.RegularPages "Type" "featured") }} {{ .Render "post" }} {{ end }}
           </div>
           <!-- small featured post -->
           <div class="col-lg-6 pe-4 blog-card-list scroll-list">
@@ -83,9 +80,7 @@
                 <!-- /image cdn -->
 
                 <!-- image processing for single device -->
-                {{ if fileExists (add `assets/` $imagePath) }} {{ $image:=
-                resources.Get $imagePath }} {{ $imageFallback:= $image.Fill
-                "105x85" }} {{ $imageWebp:= $image.Fill "105x85 webp" }}
+                {{ if fileExists (add `assets/` $imagePath) }} {{ $image:=resources.Get $imagePath }} {{ $imageFallback:= $image.Fill "105x85" }} {{ $imageWebp:= $image.Fill "105x85 webp" }}
                 <img
                   loading="lazy"
                   decoding="async"
@@ -145,8 +140,7 @@
         <div class="border pt-4 mb-5 rounded">
           <div class="row mx-0 g-5">
             <!-- recent post -->
-            {{ $paginator:= .Paginate (where site.RegularPages "Section" "in"
-            site.Params.mainSections ) }} {{ range $paginator.Pages }}
+            {{ $paginator:= .Paginate (where site.RegularPages "Section" "in" site.Params.mainSections ) }} {{ range $paginator.Pages }}
             <div class="col-sm-6 mb-4">{{ .Render "post" }}</div>
             {{ end }}
           </div>
@@ -186,27 +180,22 @@
             </li>
             {{ end }}
             <!-- Page numbers. -->
-            {{ range $paginator.Pagers }} {{ $.Scratch.Set "page_number_flag"
-            false }}
+            {{ range $paginator.Pagers }} {{ $.Scratch.Set "page_number_flag" false }}
             <!-- Advanced page numbers. -->
             {{ if gt $paginator.TotalPages $max_links }}
             <!-- Lower limit pages. -->
             <!-- If the user is on a page which is in the lower limit.  -->
             {{ if le $paginator.PageNumber $lower_limit }}
             <!-- If the current loop page is less than max_links. -->
-            {{ if le .PageNumber $max_links }} {{ $.Scratch.Set
-            "page_number_flag" true }} {{ end }}
+            {{ if le .PageNumber $max_links }} {{ $.Scratch.Set "page_number_flag" true }} {{ end }}
             <!-- Upper limit pages. -->
             <!-- If the user is on a page which is in the upper limit. -->
             {{ else if ge $paginator.PageNumber $upper_limit }}
             <!-- If the current loop page is greater than total pages minus $max_links -->
-            {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }} {{
-            $.Scratch.Set "page_number_flag" true }} {{ end }}
+            {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }} {{ $.Scratch.Set "page_number_flag" true }} {{ end }}
             <!-- Middle pages. -->
-            {{ else }} {{ if and ( ge .PageNumber (sub $paginator.PageNumber
-            $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber
-            $adjacent_links) ) }} {{ $.Scratch.Set "page_number_flag" true }} {{
-            end }} {{ end }}
+            {{ else }} {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }} {{ $.Scratch.Set "page_number_flag" true }}
+            {{ end }} {{ end }}
             <!-- Simple page numbers. -->
             {{ else }} {{ $.Scratch.Set "page_number_flag" true }} {{ end }}
             <!-- Output page numbers. -->
@@ -246,8 +235,7 @@
 
       <!-- sidebar widgets -->
       <aside class="col-lg-4">
-        {{ $widget:= site.Params.widgets.sidebar }} {{ partialCached
-        "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
+        {{ $widget:= site.Params.widgets.sidebar }} {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . )}}
       </aside>
     </div>
   </div>
