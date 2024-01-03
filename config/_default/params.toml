@@ -32,7 +32,7 @@ about_widget_content = "Este es un espacio en el cual deseo compartir con el res
 # footer content
 footer_content = "La información contenida en este sitio es únicamente con propositos educativos. De ninguna manera se debe tomar como consejo médico. Consulta a tu médico antes de comenzar el Ayuno Intermitente."
 # copyright
-copyright = "©2022 Copyright Ayuno Intermitente.Blog"
+copyright = "©2024 Copyright Ayuno Intermitente.Blog"
 #copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
